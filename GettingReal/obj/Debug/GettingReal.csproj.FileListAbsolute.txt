@@ -1,0 +1,14 @@
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\bin\Debug\GettingReal.exe.config
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\GettingReal.csprojResolveAssemblyReference.cache
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\MainWindow.g.cs
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\App.g.cs
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\GettingReal_MarkupCompile.cache
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\GettingReal_MarkupCompile.lref
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\bin\Debug\GettingReal.exe
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\bin\Debug\GettingReal.pdb
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\MainWindow.baml
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\GettingReal.g.resources
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\GettingReal.Properties.Resources.resources
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\GettingReal.csproj.GenerateResource.Cache
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\GettingReal.exe
+c:\users\gunna\onedrive\documents\visual studio 2015\Projects\GettingReal\GettingReal\obj\Debug\GettingReal.pdb
